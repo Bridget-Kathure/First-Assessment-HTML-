@@ -1,0 +1,93 @@
+.header{
+    background-color: green;
+    gap: 10%;
+    display: flex;
+    color: white;
+}
+.navbar{
+gap: 5%;
+display: flex;
+padding: 50% 50%;
+}
+.vallona{
+    font-size: x-large;
+   
+}
+.terradium{
+    font-size: xx-large;
+    font-style: italic;
+}
+.summer{
+    background-image: url(Pictures/pin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+.inspirationplants{
+    background-image: url(Pictures/inspirational.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 350px;
+    background-position: right;
+}
+.orchid{
+    background-image: url(Pictures/orchid.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 250px;
+}
+.orchids{
+    display: grid;
+}
+.plants{
+    display: flex;
+    gap: 3%;
+}
+.home{
+    color: green;
+}
+.sentences{
+    color: gray;
+}
+.houseplants{
+    display: flex;
+    gap: 10%;
+}
+.sale{
+    background-image: url(Pictures/cactus.jpg);
+    background-repeat: no-repeat;
+}
+.potted{
+    background-image: url(Pictures/third.jpg);
+    background-repeat: no-repeat;
+}
+.trending{
+    background-image: url(Pictures/cactus.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+}
+.products{
+    text-align: center;
+    padding: auto;
+}
+.treeinabottle{
+    display: flex;
+    gap: 10%;
+}
+button{
+padding: 20px;
+background-color: green;
+color: white;
+border-radius: 20px;
+border-color: white;
+}
+body{
+    padding: 200px 200px;
+}
+@media (min-width:768px)and (max-width:991px){
+
+}
